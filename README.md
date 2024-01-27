@@ -1,4 +1,4 @@
-# authentication-practice
+# authentication
 Authentication Practice with Node.js, jsonwebtoken, and bcrypt
 This repository contains an example implementation of user authentication using Node.js, jsonwebtoken, and bcrypt.
 
